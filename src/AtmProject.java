@@ -14,6 +14,9 @@ public class AtmProject {
 
         System.out.println("bir kısım kodlar");
         //nsb2
+
+        System.out.println();
+        //nsb3
     }
 
 }
